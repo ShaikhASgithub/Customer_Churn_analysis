@@ -6,16 +6,6 @@ Using **Python**, **SQL**, and **visual analytics** (Seaborn, Matplotlib), it pr
 Interactive visualizations highlight relationships between demographics, services, payment methods, and churn rates.
 
 ---
-
-## 📂 Project Structure
-📁 data/ # Raw and cleaned datasets
-📁 notebooks/ # Jupyter notebooks for analysis
-📁 images/ # Charts and visualizations
-📄 TCA.ipynb # Main analysis notebook
-📄 customer_churn_executive_summary.pdf # Final PDF report
-📄 README.md # Project documentation
-
-
 ## 🔍 Key Insights
 - **Overall Churn Rate:** 26.54% of customers churned.
 - **Demographics:** Senior citizens have a higher churn rate than younger customers.
