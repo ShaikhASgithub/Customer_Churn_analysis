@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project analyzes **customer churn patterns** to identify key factors influencing customer retention and loss.  
-Using **Python**, **SQL**, and **visual analytics** (Seaborn, Matplotlib), it provides actionable insights to improve customer retention strategies.  
+Using **Python** and **visual analytics** (Seaborn, Matplotlib), it provides actionable insights to improve customer retention strategies.  
 Interactive visualizations highlight relationships between demographics, services, payment methods, and churn rates.
 
 ---
@@ -17,9 +17,8 @@ Interactive visualizations highlight relationships between demographics, service
 ---
 
 ## 🛠 Tools & Technologies
-- **Languages:** Python, SQL
+- **Languages:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization:** Power BI (optional for dashboards)
 - **Environment:** Jupyter Notebook
 
 ---
